@@ -18,4 +18,4 @@ Please report issues on https://github.com/CodeMasterApp/CMExtensionKit/issues
 
 ### How to use
 
-1) import `https://github.com/AuroraEditor/AEExtensionKit` as a package in your project.
+1) import `https://github.com/CodeMasterApp/CMExtensionKit` as a package in your project.
